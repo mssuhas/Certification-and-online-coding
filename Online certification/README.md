@@ -43,4 +43,7 @@ Transfer assets in a business blockchain
 Review qsn
 
 # day-15
-Final Exam and completion.
+Final Exam and completion and Ebox.
+
+# day-16
+java course from Ebox
