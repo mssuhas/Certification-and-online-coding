@@ -12,3 +12,9 @@ Write a Python to implement Perfect Sum Problem.
 
 # Pro5
 Write a Java Program to print smallest and biggest possible palindrome word in a given string.
+
+# Pro6
+Python Program to count even and odd numbers.
+
+# Pro7
+Write a Java Program to remove all white spaces from a string without using replace().
