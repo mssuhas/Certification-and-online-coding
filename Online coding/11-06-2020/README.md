@@ -1,18 +1,8 @@
 # Pro1
-Python Program to Find the Largest Number in a List without using sorting algorithm.
+Python Program to find the average of all Items in a Dictionary Step1: Get the name as key and marks as value for n students Step2: find the average of the marks of all the students and print it.
+
 # Pro2
-Python Program to find different digits r from number n using permutation.
+Write a Java program to find the nodes which are at the maximum distance in a Binary Tree.
+
 # Pro3
-Python Program to find different digits r from number n using combination.
-# Pro4
-Python Program to Map Two Lists into a Dictionary.
-# Pro5
-Python Program to Accept a Hyphen Separated Sequence of Words as Input and Print the Words in a Hyphen-Separated Sequence after Sorting them Alphabetically.
-# Pro6
-Python Program to Take in the Marks of 5 Subjects and Display the Grade using if ... elif construct without using and operator for finding the range.
-# Pro7
-Take a list of length 3 containing integers, find out which is larger, first or last one and set all the elements in the list to be that value. Print the updated list.
-# Pro8
-Write a python program to generate prime number in an interval.
-# Pro9
-Write a Java Program to Implement Circular Doubly Linked List.
+Write a python function that converts a string to all uppercase, provided it contains at least 2 uppercase characters in the first 4 characters. Else print the string as it is
