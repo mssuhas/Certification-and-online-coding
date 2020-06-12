@@ -1,18 +1,8 @@
 # Pro1
-Python Program to Find the Largest Number in a List without using sorting algorithm.
+Python program to Count the Number of Vowels Present in a String using Sets Step1: Get a string Step2: find the no of occurrence of all vowels in the string using data structure set.
+
 # Pro2
-Python Program to find different digits r from number n using permutation.
+A magic square of order n is an arrangement of n^2 numbers, usually distinct integers, in a square, such that the n numbers in all rows, all columns, and both diagonals sum to the same constant. A magic square contains the integers from 1 to n^2.
+
 # Pro3
-Python Program to find different digits r from number n using combination.
-# Pro4
-Python Program to Map Two Lists into a Dictionary.
-# Pro5
-Python Program to Accept a Hyphen Separated Sequence of Words as Input and Print the Words in a Hyphen-Separated Sequence after Sorting them Alphabetically.
-# Pro6
-Python Program to Take in the Marks of 5 Subjects and Display the Grade using if ... elif construct without using and operator for finding the range.
-# Pro7
-Take a list of length 3 containing integers, find out which is larger, first or last one and set all the elements in the list to be that value. Print the updated list.
-# Pro8
-Write a python program to generate prime number in an interval.
-# Pro9
-Write a Java Program to Implement Circular Doubly Linked List.
+Python program to print the pattern.
