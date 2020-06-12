@@ -45,5 +45,5 @@ Review qsn
 # day-15
 Final Exam and completion and Ebox.
 
-# day-16th may to 12th june 
+# day-16 to 22
 java course from Ebox
