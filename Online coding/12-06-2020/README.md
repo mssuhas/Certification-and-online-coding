@@ -6,3 +6,6 @@ A magic square of order n is an arrangement of n^2 numbers, usually distinct int
 
 # Pro3
 Python program to print the pattern.
+
+# Pro4
+Write a Java program to find maximum width of a binary tree.
