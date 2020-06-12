@@ -46,4 +46,4 @@ Review qsn
 Final Exam and completion and Ebox.
 
 # day-16 to 22
-java course from Ebox
+Ebox courses (Java/Python)
